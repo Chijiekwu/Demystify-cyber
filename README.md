@@ -7,6 +7,7 @@ Next was to create the Virtual network which enabled the Virtual machines we cre
 I created 4 VMs, the first was the "Jumpbox" which ran the Docker containers while the other 3 VMs were Web-VMs running vulnerable DVWA containers.
 
 **Cloud Security Topology**:
+
 ![](diagrams/Cloud Security Topology.png)
 
 **Note**: All resources were created and deployed in the same availability region.
