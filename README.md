@@ -8,7 +8,7 @@ I created 4 VMs, the first was the "Jumpbox" which ran the Docker containers whi
 
 **Cloud Security Topology**:
 
-![](../diagrams/Cloud Security Topology.png)
+![](../../diagrams/Cloud Security Topology.png)
 
 **Note**: All resources were created and deployed in the same availability region.
 
