@@ -24,3 +24,7 @@ I took the following steps to set-up the ELK server:
 - The ELK stack Docker container was downloaded and configured on the new VM.
 - I installed Metricbeat and Filebeat on the web-DVWA-VMs.
 - Finally after all the configuration, on Kibana(a tool for visualizing Elasticsearch data with charts and graphs) I checked to see if the ELK stack was receiving data from the 3 VMs and it was.
+
+**ELK Server Topology**
+
+![](diagrams/ELK-Server-Topology.png)
